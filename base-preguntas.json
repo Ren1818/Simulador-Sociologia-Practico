@@ -1319,50 +1319,82 @@
     },
     {
         "categoria": "EXAMEN COMPLEXIVO PRACTICO - BIENESTAR SOCIAL",
-        "pregunta": " ",
-        "respuesta": " ",
-        "incorrecta1": " ",
-        "incorrecta2": " ",
+        "pregunta": " Usted quiere elaborar un artículo académico para proponer su publicación en una revista especializada. Su artículo versa de Consolidación de los programas de reforma en el ámbito rural desde una perspectiva sociológica y necesita estructurar un marco teórico conceptual que restrinja estrictamente el tema definido teniendo en cuenta sus conocimientos acumulados sobre sociología. ¿Qué idea le resulta mas adecuada para formar un marco teórico conceptual para este fin? ",
+        "respuesta": " A. Estos programas son coherentes en el contexto macroeconómico con el marco legal y los procesos de descentralización además de corregir los sesgos anti agrarios e incluir programas de protección social para los pobres. ",
+        "incorrecta1": "B. Redefinir el papel del Estado en la formulación y ejecución de las políticas de desarrollo rural y no dejar solo en manos del sector privado y al mercado esta responsabilidad.  ",
+        "incorrecta2": "C. Estos programas rigen del financiamiento, la innovación tecnológica, la conservación ambiental, la sanidad y el manejo de los alimentos y la dotación de infraestructura, requieren de la intervención del Estado.  ",
+        "incorrecta3": "D. Todas las anteriores.  "
+    },
+    {
+        "categoria": "EXAMEN COMPLEXIVO PRACTICO - BIENESTAR SOCIAL",
+        "pregunta": "Usted es invitado para disertar sobre la sociología rural para los programas de acción en la provincia de Esmeralda, ante un congreso internacional. Para preparar la exposición debe recopilar información sobre determinados temas. Teniendo en cuenta las opciones presentes, ¿qué tema es relevante para la temática a tratar?  ",
+        "respuesta": " D. Todas las anteriores son relevantes. ",
+        "incorrecta1": " A. Organizaciones del sistema de economía popular y solidario, desafíos, alternativas y fortalecimiento. ",
+        "incorrecta2": "B. Reforma agraria en el Ecuador.  ",
+        "incorrecta3": "C. Categoría campo-ciudad: modelo tradicional y nuevo debate frente al enfoque de la nueva ruralidad.  "
+    },
+    {
+        "categoria": "EXAMEN COMPLEXIVO PRACTICO - BIENESTAR SOCIAL",
+        "pregunta": " Usted es invitado para disertar sobre la crisis el cambio social y urbanización de Esmeraldas ante una cumbre de profesionales en ciencias sociales. Para preparar su exposición debe recopilar información sobre determinades tenas. Teniendo en cuenta las opciones presentes, ¿qué tema es relevante para la temática a tratar? ",
+        "respuesta": "D. Todas las opciones suenan relevantes.  ",
+        "incorrecta1": "A. La crítica al crecimiento urbano de las dos últimas décadas ",
+        "incorrecta2": "B. El urbanismo, la planificación urbana y el ordenamiento territorial desde la perspectiva del derecho urbanístico.  ",
+        "incorrecta3": "C. Ciudad y ciudadanía, sistemas de planificación urbana. "
+    },
+    {
+        "categoria": "EXAMEN COMPLEXIVO PRACTICO - BIENESTAR SOCIAL",
+        "pregunta": "Usted es contratado/a para hacer una consultoría en PNUD que indague las razones sociales de la alta tasa del crecimiento de las ciudades y el impacto negativo de la urbanización y la industrialización, teniendo en cuenta sus conocimientos sobre sociología, ¿qué definición de vinculación le resulta más adecuado para formar introducción para este fin?  ",
+        "respuesta": "B. Se vincula con desarrollo y progreso, pero también con problemas urbanos como la pobreza, el deterioro ambiental y el colapso de servicios, todo lo que supone riesgo para la salud de las personas, la promesa de empleo y prosperidad atrae a la gente hacia las ciudades ",
+        "incorrecta1": " A. Se relaciona con la revolución Industrial, sin embargo, la preocupación por las cuestiones urbanas es mucho más antigua. ",
+        "incorrecta2": " C. El número de habitantes de una ciudad supera la capacidad de sus instalaciones, infraestructuras y servicios, generando el colapso de lugares para vivienda, transporto, agua y electricidad, empleo, etc.",
         "incorrecta3": " "
     },
     {
         "categoria": "EXAMEN COMPLEXIVO PRACTICO - BIENESTAR SOCIAL",
-        "pregunta": " ",
-        "respuesta": " ",
-        "incorrecta1": " ",
-        "incorrecta2": " ",
-        "incorrecta3": " "
+        "pregunta": "Usted esta elaborando su proyecto de investigación necesario para otorgarle su titulo de tercer nivel en sociología. El tema de su proyecto esta relacionado con las funciones urbanas de su localidad. Usted como estudiante de sociología próximo hacer un profesional en el área. ¿Cuál de los siguientes campos y retos sociales preferiría detallas en su proyecto?  ",
+        "respuesta": "F. Todas las anteriores.  ",
+        "incorrecta1": "A. Economía: producción de la riqueza y su repartición ",
+        "incorrecta2": "B. Población: reproducción y equilibrio con el resto de la sociedad.  ",
+        "incorrecta3": "C. Territorio: y el medio ambiente en función de un desarrollo durable.  "
     },
     {
         "categoria": "EXAMEN COMPLEXIVO PRACTICO - BIENESTAR SOCIAL",
-        "pregunta": " ",
-        "respuesta": " ",
-        "incorrecta1": " ",
-        "incorrecta2": " ",
-        "incorrecta3": " "
+        "pregunta": " Usted es contratado/a para hacer una consultoría en una ONG que muestre la condición productiva y social de una comunidad de la zona urbana previo a la implementación de un proyecto de intervención social, con el fin de comparar la situación inicial de entrada con los resultados proyectados al final de la intervención. ¿Cuál de las siguientes herramientas investigativas le resulta más útil para su objetivo? ",
+        "respuesta": "D. Encuestas y estructuración de línea base.  ",
+        "incorrecta1": "A. Observación participativa.  ",
+        "incorrecta2": "B. Diario de campo etnográfico.  ",
+        "incorrecta3": " C. Análisis del discurso. "
     },
     {
         "categoria": "EXAMEN COMPLEXIVO PRACTICO - BIENESTAR SOCIAL",
-        "pregunta": " ",
-        "respuesta": " ",
-        "incorrecta1": " ",
-        "incorrecta2": " ",
-        "incorrecta3": " "
+        "pregunta": "Usted es aceptado/a para hacer una pasantía como asistente de investigación en un proyecto encaminado a hacer una historia sociológica de participación e integración social. Su primera tarea es identificar y sistematizar la producción académica (tesis, artículos académicos, trabajos escritos) de la política urbana. ¿Cuál de las siguientes herramientas investigativas le resulta más útil para su objetivo?  ",
+        "respuesta": " C. Fichas bibliográficas con los datos requeridos. ",
+        "incorrecta1": "A. Encuestas y estructuración de línea base.  ",
+        "incorrecta2": " B. Observación participativa",
+        "incorrecta3": " D. Diario de campo etnográfico. "
     },
     {
         "categoria": "EXAMEN COMPLEXIVO PRACTICO - BIENESTAR SOCIAL",
-        "pregunta": " ",
-        "respuesta": " ",
-        "incorrecta1": " ",
-        "incorrecta2": " ",
-        "incorrecta3": " "
+        "pregunta": " Usted está elaborando un ensayo de carácter científico el cual su tema está relacionado con 'LAS CIUDADES Y SU IDENTIFICACION' si tuviera que citar un concepto del tema antes mencionado ¿Cuál de las siguientes conceptualizaciones le resulta más útil para su ensayo? ",
+        "respuesta": "D. Todas las anteriores.  ",
+        "incorrecta1": "A. La supremacía de la ciudad sobre el campo que provoca esta desigualdad y ambivalencia, producto de la división del trabajo (Marx).  ",
+        "incorrecta2": " B. El proceso de racionalización, verdadera naturaleza de la vida urbana (Weber) y la ciudad, territorio que simboliza el poder del estado y la burocracia. ",
+        "incorrecta3": "C. En la ciudad se intensifica el contacto social, esta provoca la ansiedad y la angustia por la densidad del orden moral presente desde las primeras formas urbanas (Durkheim) (Lezama, 1993).  "
     },
     {
         "categoria": "EXAMEN COMPLEXIVO PRACTICO - BIENESTAR SOCIAL",
-        "pregunta": " ",
-        "respuesta": " ",
-        "incorrecta1": " ",
-        "incorrecta2": " ",
-        "incorrecta3": " "
+        "pregunta": " Usted es contratado/a para hacer un estudio para INEC que busca tener datos cuantitativos de las condiciones sociales, económicas y densidades de las familias que viven en los barrios de la zona urbana de la Provincia de Esmeraldas dentro del cantón del mismo nombre. ¿Cuál de las siguientes herramientas investigativas le resulta más útil para su objetivo? ",
+        "respuesta": " C. Encuestas y entrevistas estructuradas. ",
+        "incorrecta1": "A. Observación participativa ",
+        "incorrecta2": "B. Diario de campo etnográfico ",
+        "incorrecta3": " D. Análisis del discurso"
     },
+    {
+        "categoria": "EXAMEN COMPLEXIVO PRACTICO - BIENESTAR SOCIAL",
+        "pregunta": "Usted quiere elaborar un artículo académico para proponer su publicación en una revista científica. Su artículo se basa en 'MODELOS URBANOS' desde una perspectiva sociológica, y necesita estructurar un marco teórico conceptual que se restrinja estrictamente al tema definido. Teniendo en cuenta sus conocimientos acumulados sobre sociología, ¿qué autor le resulta más adecuado para formar un marco teórico conceptual para este fin y por qué?  ",
+        "respuesta": "A. Kevin Lynch, porque describe una forma, un proceso y un prototipo a seguir, y debe ser explicito y preciso. Desde un punto de vista ideal deben expresar una forma, creación y gestión como una sola cosa.  ",
+        "incorrecta1": "B. Raymond Ledrut, porque nos quiere decir que con la imagen de la ciudad no se apunta a un objeto en sí, sino que con ella tenemos medios de manifestar la realidad urbana ",
+        "incorrecta2": "C. Manuel Castells, porque se enfoca en el proceso de globalización modifica profundamente la estructura de las ciudades que varía según los niveles de desarrollo de los países, su historia urbana, su cultura, sus instituciones. ",
+        "incorrecta3": " "
+    }
 ]
